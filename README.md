@@ -8,4 +8,4 @@ The main goal of this project is to improve front-end development skills by crea
 
 🚀 Live Demo
 
-🔗 View Live Demo: https://github.com/Rajanya-codeBase/Ecommerce-Clone
+🔗 View Live Demo: https://rajanya-codebase.github.io/Ecommerce-Clone/
